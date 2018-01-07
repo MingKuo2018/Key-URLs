@@ -1,1 +1,3 @@
 https://github.com/cassidoo/scrapers
+https://github.com/scrapy/scrapy
+https://github.com/sselph/scraper
